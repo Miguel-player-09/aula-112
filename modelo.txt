@@ -1,0 +1,5 @@
+https://teachablemachine.withgoogle.com/models/RtRx0l_F6/
+
+feliz
+triste
+irritado
